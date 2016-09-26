@@ -1,2 +1,2 @@
 # HackerRank
-My HackerRank solutions (some of them at least...)
+HackerRank solutions in various languages, by @andersy005 and myself. 
