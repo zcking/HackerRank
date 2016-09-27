@@ -1,4 +1,4 @@
-"""Not an original idea but a very python solution!!
+"""Not an original idea but a very pythonic solution!!
 print(*objects, sep=' ', end='\n', file=sys.stdout) is not normally available 
 as a built-in since the name print is recognized as the print statement. To disable 
 the statement and use the print() function, use the future statement at the top of your module
