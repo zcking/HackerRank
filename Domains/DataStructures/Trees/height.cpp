@@ -8,13 +8,10 @@ struct node
 };
 
 */
-int height(node * root)
+int height(node* root)
 {
-  if(root == NULL )
-      return -1;
+    if(root == NULL )
+        return -1;
 
-    
-  return max(height(root->left), height(root->right)) + 1;
-      
-  
+    return max(height(root->left), height(root->right)) + 1;
 }
